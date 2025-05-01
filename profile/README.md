@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <h1>⚫️ WON-Q Order</h1>
-  <p>우리금융 QR 주문 서비스</p>
+  <p>우리금융 사내 QR 주문 서비스</p>
   <br />
   <a href="#"><strong>📑 Report</strong></a>
   <br /><br />
